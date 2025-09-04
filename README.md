@@ -45,7 +45,7 @@ quiz-app/
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/<your-username>/QUIZ-.git
+   git clone https://github.com/<your-username>/quiz-app.git
    cd quiz-app
    ```
 
@@ -88,7 +88,7 @@ npm install gh-pages --save-dev
 Add to `package.json`:
 
 ```json
-"homepage": "https://<username>.github.io/Quiz-",
+"homepage": "https://<username>.github.io/quiz-app",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
