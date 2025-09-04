@@ -126,13 +126,11 @@ npm run deploy
 ## 🙌 Credits
 
 * Questions API: [Open Trivia DB](https://opentdb.com/)
-* Author: *Your Name* ✨
+* Author: Vanshika Gangwar ✨
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
 
 
 
