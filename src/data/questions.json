@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["Lyon", "Marseille", "Nice"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which data structure uses FIFO order?",
+    "correct_answer": "Queue",
+    "incorrect_answers": ["Stack", "Tree", "Graph"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "React hooks were introduced in which version?",
+    "correct_answer": "16.8",
+    "incorrect_answers": ["15.0", "16.0", "17.0"],
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Big-O, what is the complexity of binary search?",
+    "correct_answer": "O(log n)",
+    "incorrect_answers": ["O(n)", "O(n log n)", "O(1)"],
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which HTTP status means 'Unauthorized'?",
+    "correct_answer": "401",
+    "incorrect_answers": ["400", "403", "404"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which SQL command removes a table and its data?",
+    "correct_answer": "DROP TABLE",
+    "incorrect_answers": ["DELETE TABLE", "REMOVE TABLE", "TRUNCATE DATA"],
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the output of typeof null in JavaScript?",
+    "correct_answer": "object",
+    "incorrect_answers": ["null", "undefined", "boolean"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "DNS translates domain names to what?",
+    "correct_answer": "IP addresses",
+    "incorrect_answers": ["MAC addresses", "Ports", "Hostnames"],
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which algorithm is used by HTTPS for key exchange (commonly)?",
+    "correct_answer": "Diffie-Hellman",
+    "incorrect_answers": ["AES", "SHA-256", "RSA only"],
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which method renders a React component to the DOM (legacy)?",
+    "correct_answer": "ReactDOM.render",
+    "incorrect_answers": ["React.render", "root.renderDOM", "createRoot.renderDOM"],
+    "difficulty": "medium"
+  }
+]
